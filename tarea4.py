@@ -54,7 +54,7 @@ class LibroDigital(Libro):
 
 libro1 = Libro("Meditaciones", "Marco Aurelio")
 libro2 = Libro("El Principito", "Antoine de Saint-Exupéry")
-libro3 = LibroDigital("Básico", "Juan Pérez", "PDF")
+libro3 = LibroDigital("Python Básico", "Steve García", "PDF")
 
 biblioteca = Biblioteca()
 
